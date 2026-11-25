@@ -12,7 +12,11 @@ dependencies = [
     "matplotlib",
     "pandas",
     "numpy",
-    "kagglehub"
+    "kagglehub",
+    "typesafe_sdk",
+    "python-dotenv",
+    "scikit-learn",
+    "duckdb"
 ]
 
 [project.optional-dependencies]
